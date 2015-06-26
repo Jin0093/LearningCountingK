@@ -1,0 +1,37 @@
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\EntityFramework.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\EntityFramework.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.pdb
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.initial.resources
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csproj.GenerateResource.Cache
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\EntityFramework.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\EntityFramework.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.initial.resources
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csproj.GenerateResource.Cache
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.pdb
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.Web.Common.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\WebActivatorEx.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.Web.Common.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\WebApiContrib.IoC.Ninject.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache

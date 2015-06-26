@@ -1,0 +1,191 @@
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\CountingKs.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\CountingKs.pdb
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Antlr3.Runtime.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\CountingKs.Data.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.Core.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\EntityFramework.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Data.Edm.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Data.OData.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Newtonsoft.Json.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Net.Http.Formatting.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Spatial.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Helpers.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Http.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Http.OData.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Http.WebHost.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Mvc.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Optimization.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Razor.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.WebPages.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.WebPages.Razor.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\WebGrease.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\WebMatrix.Data.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\WebMatrix.WebData.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Mono.Math.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\CountingKs.Data.pdb
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\EntityFramework.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Newtonsoft.Json.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Net.Http.Formatting.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Helpers.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Http.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Http.WebHost.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Mvc.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Razor.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.WebPages.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.WebPages.Razor.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\WebMatrix.Data.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\WebMatrix.WebData.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.Core.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Web.Http.OData.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Data.Edm.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Microsoft.Data.OData.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\System.Spatial.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\Mono.Math.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\de\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\es\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\fr\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\it\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ja\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ko\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\ru\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\obj\Debug\CountingKs.csprojResolveAssemblyReference.cache
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\obj\Debug\CountingKs.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs\obj\Debug\CountingKs.pdb
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\CountingKs.dll.config
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\CountingKs.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\CountingKs.pdb
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Antlr3.Runtime.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\CountingKs.Data.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.Core.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\EntityFramework.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Data.Edm.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Data.OData.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Newtonsoft.Json.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Net.Http.Formatting.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Spatial.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Helpers.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.OData.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.WebHost.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Mvc.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Optimization.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Razor.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.WebPages.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.WebPages.Razor.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebGrease.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebMatrix.Data.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebMatrix.WebData.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Mono.Math.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\CountingKs.Data.pdb
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\EntityFramework.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Newtonsoft.Json.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Net.Http.Formatting.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Helpers.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.WebHost.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Mvc.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Razor.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.WebPages.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.WebPages.Razor.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebMatrix.Data.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebMatrix.WebData.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.Core.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.OData.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Data.Edm.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Microsoft.Data.OData.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Spatial.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Mono.Math.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\de\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\es\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\fr\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\it\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ja\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ko\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\ru\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\obj\Debug\CountingKs.csprojResolveAssemblyReference.cache
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\obj\Debug\CountingKs.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\obj\Debug\CountingKs.pdb
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.Web.Common.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.Web.Mvc.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebActivatorEx.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.Web.Common.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.Web.Mvc.xml
