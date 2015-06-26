@@ -189,3 +189,7 @@ C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\Co
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.xml
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.Web.Common.xml
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\Ninject.Web.Mvc.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Cors.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.Cors.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs\bin\System.Web.Http.Cors.xml

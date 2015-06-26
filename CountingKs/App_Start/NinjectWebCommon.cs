@@ -13,6 +13,7 @@ namespace CountingKs.App_Start
     using CountingKs.Data;
     using System.Web.Http;
     using WebApiContrib.IoC.Ninject;
+    using CountingKs.Service;
 
     public static class NinjectWebCommon 
     {
@@ -71,6 +72,9 @@ namespace CountingKs.App_Start
             kernel.Bind<ICountingKsRepository>().To<CountingKsRepository>();
             //When a class is calling for a context, give it an instance of the context
             kernel.Bind<CountingKsContext>().To<CountingKsContext>();
+
+            kernel.Bind<ICountingKsIdentityService>().To<CountingKsIdentityService>();
+
         }        
     }
 }

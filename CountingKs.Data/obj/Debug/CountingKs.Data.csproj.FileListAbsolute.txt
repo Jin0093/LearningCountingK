@@ -34,4 +34,8 @@ C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\Co
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.Web.Common.xml
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\Ninject.Web.Mvc.xml
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\WebApiContrib.IoC.Ninject.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Cors.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.Cors.xml
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache

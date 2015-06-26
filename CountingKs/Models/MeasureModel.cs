@@ -7,6 +7,7 @@ namespace CountingKs.Models
 {
     public class MeasureModel
     {
+        public String URL { get; set; }
         public String Description { get; set; }
         public double Calories { get; set; }
     }

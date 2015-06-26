@@ -4,43 +4,67 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Routing;
 using CountingKs.Data;
 using CountingKs.Models;
 using CountingKs.Data.Entities;
+using CountingKs.Filters;
 
 namespace CountingKs.Controllers
 {
-    public class FoodController : ApiController
+    [RequireHttps]
+    public class FoodController : BaseApiController
     {
         //Waant interface as a parameter so we are decoupled with the Repo and be able to swap repo's
         //Don'tcare what repo is
 
-        ICountingKsRepository _repo;
-        ModelFactory _modelFactory;
-        public FoodController(ICountingKsRepository repo)
+        const int PAGE_SIZE = 50;
+
+        public FoodController(ICountingKsRepository repo) : base(repo)
         {
-            _repo = repo;
-            _modelFactory = new ModelFactory();
+
         }
-        public IEnumerable<FoodModel> Get(bool includeMeasures = true)
+        public object Get(bool includeMeasures = true, int page = 0)
         {
             IQueryable<Food> query;
             if(includeMeasures)
             {
-                query = _repo.GetAllFoodsWithMeasures()
+                query = TheRepository.GetAllFoodsWithMeasures();
             }
             else{
-                 query = _repo.GetAllFoods()
+                query = TheRepository.GetAllFoods();
             }
-           var results = query.OrderBy(f => f.Description).Take(25).ToList().Select(f => _modelFactory.Create(f));
+            var baseQuery = query.OrderBy(f => f.Description);
 
-            return results;
+            // Paging and Displaying useful Information to user:
+            // Begin
+            var totalCount = baseQuery.Count(); // Number of items
+            var totalPages = Math.Ceiling((double)totalCount / PAGE_SIZE); // Total Pages
+
+            var helper = new UrlHelper(Request);
+            var prevUrl = page > 0 ? helper.Link("Food", new {page = page - 1}) : "";
+            var NextUrl = page < totalPages-1 ? helper.Link("Food", new {page = page + 1}) : "";
+    
+            var results = baseQuery.Skip(PAGE_SIZE * page) // Paging
+                                   .Take(PAGE_SIZE)
+                                   .ToList()
+                                   .Select(f => TheModelFactory.Create(f));
+            // End
+
+            return new
+            {
+                TotalCount = totalCount,
+                TotalPages = totalPages,
+                PrevPageUrl = prevUrl,
+                NextPageUrl = NextUrl,
+                Results = results
+            };
         }
 
         //Return individual of Foods
-        public FoodModel Get(int id)
+        public FoodModel Get(int foodid)
         {
-            return _modelFactory.Create(_repo.GetFood(id));
+            return TheModelFactory.Create(TheRepository.GetFood(foodid));
         }
     }
 }
