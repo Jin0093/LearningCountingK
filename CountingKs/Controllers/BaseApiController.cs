@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using CountingKs.ActionResult;
 
 namespace CountingKs.Controllers
 {
@@ -37,6 +38,11 @@ namespace CountingKs.Controllers
                 }
                 return _modelFactory;
             }
+        }
+
+        protected IHttpActionResult Versioned<T>(T body, string version = "v1") where T : class
+        {
+            return new VersionedActionResult<T>(Request, version, body);
         }
     }
 }

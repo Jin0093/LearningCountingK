@@ -38,4 +38,7 @@ C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\Co
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Cors.dll
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.Cors.dll
 C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\System.Web.Http.Cors.xml
-C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\CacheCow.Common.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\CacheCow.Server.dll
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\CacheCow.Common.xml
+C:\Users\jlim\Documents\Learning Project\2_ASP.Net_Web_API_Learning\countingk\CountingKs.Data\bin\Debug\CacheCow.Server.xml

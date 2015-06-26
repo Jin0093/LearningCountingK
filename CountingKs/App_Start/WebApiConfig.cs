@@ -10,6 +10,10 @@ using WebApiContrib.Formatting.Jsonp;
 using System.Web.Http.Dispatcher;
 using CountingKs.Service;
 using System.Net.Http.Headers;
+using CacheCow.Server;
+using CacheCow.Server.EntityTagStore.SqlServer;
+using System.Configuration;
+using System.Web.Http.Cors;
 
 namespace CountingKs
 {
@@ -17,11 +21,14 @@ namespace CountingKs
     {
         public static void Register(HttpConfiguration config)
         {
-            config.Routes.MapHttpRoute(
-                name: "Food",
-                routeTemplate: "api/nutrition/foods/{foodid}",
-                defaults: new { controller = "foods", foodid = RouteParameter.Optional }
-            );
+
+            config.MapHttpAttributeRoutes();
+
+            //config.Routes.MapHttpRoute(
+            //    name: "Food",
+            //    routeTemplate: "api/nutrition/foods/{foodid}",
+            //    defaults: new { controller = "foods", foodid = RouteParameter.Optional }
+            //);
 
             config.Routes.MapHttpRoute(
                 name: "Measures",
@@ -62,12 +69,6 @@ namespace CountingKs
 
             );
 
-            //Replace the Controller Configuration
-            config.Services.Replace(typeof(IHttpControllerSelector),
-                new CountingKsControllerSelector(config));
-
-
-
             // Uncomment the following line of code to enable query support for actions with an IQueryable or IQueryable<T> return type.
             // To avoid processing unexpected or malicious queries, use the validation settings on QueryableAttribute to validate incoming queries.
             // For more information, visit http://go.microsoft.com/fwlink/?LinkId=279712.
@@ -79,18 +80,30 @@ namespace CountingKs
 
             CreateMediaTypes(jsonFormatter);
 
-            //Adding support JSONP using : "webapicontrib.formatting.jsonp" in nugget
+            // Adding support JSONP using : "webapicontrib.formatting.jsonp" in nugget
             var formatter = new JsonpMediaTypeFormatter(jsonFormatter, "cb");
             config.Formatters.Insert(0, formatter); // Makes API calls in jsonp formatter first
 
-            //Adds a Https requirement for all API calls
+            // Adds a Https requirement for all API calls
             config.Filters.Add(new RequireHttpsAttribute());
 
-            //Adds CORs By adding: "microsoft.aspnet.webapi.cors" in nugget
-            config.EnableCors();
+            // Adds CORs By adding: "microsoft.aspnet.webapi.cors" in nugget
+            var attr = new EnableCorsAttribute("*", "*", "GET"); // Allows entire website to use Cors
+            config.EnableCors(attr);
+
+            // Replace the Controller Configuration
+            config.Services.Replace(typeof(IHttpControllerSelector),
+                new CountingKsControllerSelector(config));
+
+            // Configure Caching/ETag Support using CacheCow Server
+            var connString  = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+            var etagStore = new SqlServerEntityTagStore(connString);
+            var cacheHandler = new CachingHandler(config, etagStore);
+            config.MessageHandlers.Add(cacheHandler);
         }
 
         // Creates new media types for JSON formatter to be used for versioning
+        // For method GetVersionFromMediaType
         private static void CreateMediaTypes(JsonMediaTypeFormatter jsonFormatter)
         {
             // Anything after vnd. ".." is a vendor

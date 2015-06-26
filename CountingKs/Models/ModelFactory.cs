@@ -34,7 +34,10 @@ namespace CountingKs.Models
         {
             return new MeasureModel()
             {
-                URL = _urlHelp.Link("Measures", new {foodid = m.Food.Id, id = m.Id}),
+                Links = new List<LinkModel>()
+                {
+                    CreateLink(_urlHelp.Link("Measures", new {foodid = m.Food.Id, id = m.Id}), "POST")
+                },
                 Description = m.Description,
                 Calories = m.Calories
             };
@@ -44,10 +47,26 @@ namespace CountingKs.Models
         {
             return new DiaryModel()
             {
-                URL = _urlHelp.Link("Diaries", new { diaryid = d.CurrentDate.ToString("yyyy-MM-dd")}),
-                CurrentDate = d.CurrentDate
+                Links = new List<LinkModel>()
+                {
+                    CreateLink(_urlHelp.Link("Diaries", new { diaryid = d.CurrentDate.ToString("yyyy-MM-dd")}),
+                        "self")
+                },
+                CurrentDate = d.CurrentDate,
+                Entries = d.Entries.Select(e=>Create(e))
             };
           
+        }
+
+        public LinkModel CreateLink(string href, string rel, string method = "GET", bool isTemplated = false)
+        {
+            return new LinkModel()
+            {
+                Href = href,
+                Rel = rel,
+                Method = method,
+                IsTemplated = isTemplated;
+            }
         }
 
         public DiaryEntryModel Create(DiaryEntry entry)
@@ -58,28 +77,26 @@ namespace CountingKs.Models
             };
         }
 
-        public DiaryEntry Parse(DiaryEntryModel model)
+        public DiaryEntry Parse(DiaryModel model)
         {
             try
             {
-                //Model Id
-                var entry = new DiaryEntry();
-                if(model.Quantity != default(double))
+                var entity = new Diary();
+                var selfLink = model.Links.Where(l=> l.Rel == "self").FirstOrDefault();
+
+                if(selfLink !=null && !string.IsNullOrWhiteSpace(selfLink.Href))
                 {
-                    entry.Quantity = model.Quantity;
+                    var uri = new Uri(selfLink.Href);
+                    entity.Id = int.Parse(uri.Segments.Last());
                 }
 
+                entity.CurrentDate = model.CurrentDate;
 
-                if (!string.IsNullOrWhiteSpace(model.MeasureUrl))
+                if (model.Entries !=null)
                 {
-                    //Measure Id
-                    var uri = new Uri(model.MeasureUrl);
-                    var measureId = int.Parse(uri.Segments.Last());
-                    var measure = _repo.GetMeasure(measureId);
-                    entry.Measure = measure;
-                    entry.FoodItem = measure.Food;
+                    foreach (var entry in model.Entries) entity.Entries.Add(model.Entries);
                 }
-                return entry;
+
             }
             catch
             {
